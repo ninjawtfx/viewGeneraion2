@@ -38,7 +38,7 @@ namespace ViewGeneration
 					new Searcher()
 					{
 						YandexUrl = "https://yandex.ru/search/?msid=1489506224.20821.20941.27535&text=%D0%BC%D1%83%D0%B7%D0%B5%D0%B9%20%D0%B2%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD&lr=213&p=20",
-						ElementToClick = "(//b[text()= 'Восстание'])[1]"
+						ElementToClick = "(//b[text()= 'Восстание'])[2]"
 					},
 
 					//new Searcher
@@ -69,6 +69,60 @@ namespace ViewGeneration
 				{
 					YandexUrl = "https://vk.com/away.php?to=http%3A%2F%2Fbrutaleveryday.ru%2Fkak-poxudet%2F&post=401123499_10&el=snippet",
 					ElementToClick = "//a[@href='http://brutaleveryday.ru/kak-poxudet-pravilnoe-pitanie/']"
+				},
+
+				new Searcher()
+				{
+					YandexUrl = "https://vk.com/away.php?to=http%3A%2F%2Fbrutaleveryday.ru%2Fkak-poxudet%2F&post=401123499_10&el=snippet",
+					ElementToClick = "//a[@href='http://brutaleveryday.ru/kak-poxudet-pravilnoe-pitanie/']"
+				},
+
+				new Searcher()
+				{
+					YandexUrl = "https://vk.com/away.php?to=http%3A%2F%2Fbrutaleveryday.ru%2Fkak-poxudet%2F&post=401123499_10&el=snippet",
+					ElementToClick = "//a[@href='http://brutaleveryday.ru/kak-poxudet-pravilnoe-pitanie/']"
+				},
+
+				new Searcher()
+				{
+					YandexUrl = "https://vk.com/away.php?to=http%3A%2F%2Fbrutaleveryday.ru%2Fsmeshnye-kartinki-16-03-chast-1-2%2F&post=401123499_11&el=snippet",
+					ElementToClick = "//a[@href='http://brutaleveryday.ru/treki-dnya/']"
+				},
+
+				new Searcher()
+				{
+					YandexUrl = "https://vk.com/away.php?to=http%3A%2F%2Fbrutaleveryday.ru%2Fsmeshnye-kartinki-16-03-chast-1-2%2F&post=401123499_11&el=snippet",
+					ElementToClick = "//a[@href='http://brutaleveryday.ru/treki-dnya/']"
+				},
+
+				new Searcher()
+				{
+					YandexUrl = "https://vk.com/away.php?to=http%3A%2F%2Fbrutaleveryday.ru%2Fsmeshnye-kartinki-16-03-chast-1-2%2F&post=401123499_11&el=snippet",
+					ElementToClick = "//a[@href='http://brutaleveryday.ru/treki-dnya/']"
+				},
+
+				new Searcher()
+				{
+					YandexUrl = "https://vk.com/away.php?to=http%3A%2F%2Fbrutaleveryday.ru%2Fsmeshnye-kartinki-16-03-chast-1-2%2F&post=401123499_11&el=snippet",
+					ElementToClick = "//a[@href='http://brutaleveryday.ru/treki-dnya/']"
+				},
+
+				new Searcher()
+				{
+					YandexUrl = "https://vk.com/away.php?to=http%3A%2F%2Fbrutaleveryday.ru%2Fsmeshnye-kartinki-16-03-chast-1-2%2F&post=401123499_11&el=snippet",
+					ElementToClick = "//a[@href='http://brutaleveryday.ru/treki-dnya/']"
+				},
+
+				new Searcher()
+				{
+					YandexUrl = "https://vk.com/away.php?to=http%3A%2F%2Fbrutaleveryday.ru%2Fsmeshnye-kartinki-16-03-chast-1-2%2F&post=401123499_11&el=snippet",
+					ElementToClick = "//a[@href='http://brutaleveryday.ru/treki-dnya/']"
+				},
+
+				new Searcher()
+				{
+					YandexUrl = "https://vk.com/away.php?to=http%3A%2F%2Fbrutaleveryday.ru%2Fsmeshnye-kartinki-16-03-chast-1-2%2F&post=401123499_11&el=snippet",
+					ElementToClick = "//a[@href='http://brutaleveryday.ru/treki-dnya/']"
 				}
 				});
 
