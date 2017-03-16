@@ -46,7 +46,7 @@ namespace ViewBot
 
 		public static List<ProxyClient> GetGoodProxies()
 		{
-			return getProxiesFromFile(ProxyType.Http, @"F:\Proxies\13.03socks24.txt");
+			return getProxiesFromFile(ProxyType.Http, @"C:\viewGeneraion2\Proxies\fileForTopProxy.txt");
 		}
 
 		public static void GetProxies()

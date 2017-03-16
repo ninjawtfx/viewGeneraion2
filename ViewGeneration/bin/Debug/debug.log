@@ -1599,3 +1599,294 @@
 [0314/214929.587:ERROR:process_reader_win.cc(114)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
 [0314/214929.587:ERROR:exception_snapshot_win.cc(87)] thread ID 31152 not found in process
 [0314/214929.587:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0314/222134.323:ERROR:process_reader_win.cc(114)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0314/222134.325:ERROR:exception_snapshot_win.cc(87)] thread ID 2456 not found in process
+[0314/222134.325:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0314/222134.520:ERROR:process_reader_win.cc(114)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0314/222134.521:ERROR:exception_snapshot_win.cc(87)] thread ID 11248 not found in process
+[0314/222134.521:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0314/222134.689:ERROR:process_reader_win.cc(114)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0314/222134.691:ERROR:exception_snapshot_win.cc(87)] thread ID 13128 not found in process
+[0314/222134.691:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0314/222134.881:ERROR:process_reader_win.cc(114)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0314/222134.882:ERROR:exception_snapshot_win.cc(87)] thread ID 5756 not found in process
+[0314/222134.882:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0314/225302.330:ERROR:process_reader_win.cc(114)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0314/225302.331:ERROR:exception_snapshot_win.cc(87)] thread ID 916 not found in process
+[0314/225302.331:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0314/225302.524:ERROR:process_reader_win.cc(114)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0314/225302.526:ERROR:exception_snapshot_win.cc(87)] thread ID 11612 not found in process
+[0314/225302.526:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0314/225302.710:ERROR:process_reader_win.cc(114)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0314/225302.711:ERROR:exception_snapshot_win.cc(87)] thread ID 12428 not found in process
+[0314/225302.712:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0314/225302.879:ERROR:process_reader_win.cc(114)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0314/225302.886:ERROR:exception_snapshot_win.cc(87)] thread ID 6588 not found in process
+[0314/225302.886:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0314/225303.025:ERROR:process_reader_win.cc(114)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0314/225303.027:ERROR:exception_snapshot_win.cc(87)] thread ID 9064 not found in process
+[0314/225303.027:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0314/225303.200:ERROR:process_reader_win.cc(114)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0314/225303.201:ERROR:exception_snapshot_win.cc(87)] thread ID 7184 not found in process
+[0314/225303.201:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0314/225303.385:ERROR:process_reader_win.cc(114)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0314/225303.386:ERROR:exception_snapshot_win.cc(87)] thread ID 14948 not found in process
+[0314/225303.386:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0314/225303.543:ERROR:process_reader_win.cc(114)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0314/225303.545:ERROR:exception_snapshot_win.cc(87)] thread ID 15160 not found in process
+[0314/225303.545:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0315/155031.929:ERROR:process_reader_win.cc(114)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0315/155031.931:ERROR:exception_snapshot_win.cc(87)] thread ID 8088 not found in process
+[0315/155031.931:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0315/155032.103:ERROR:process_reader_win.cc(114)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0315/155032.104:ERROR:exception_snapshot_win.cc(87)] thread ID 172 not found in process
+[0315/155032.104:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0315/155032.246:ERROR:process_reader_win.cc(114)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0315/155032.247:ERROR:exception_snapshot_win.cc(87)] thread ID 7892 not found in process
+[0315/155032.247:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0315/155032.409:ERROR:process_reader_win.cc(114)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0315/155032.410:ERROR:exception_snapshot_win.cc(87)] thread ID 13052 not found in process
+[0315/155032.410:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0315/155032.581:ERROR:process_reader_win.cc(114)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0315/155032.582:ERROR:exception_snapshot_win.cc(87)] thread ID 15740 not found in process
+[0315/155032.582:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0315/155032.767:ERROR:process_reader_win.cc(114)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0315/155032.768:ERROR:exception_snapshot_win.cc(87)] thread ID 8692 not found in process
+[0315/155032.768:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0315/155032.932:ERROR:process_reader_win.cc(114)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0315/155032.933:ERROR:exception_snapshot_win.cc(87)] thread ID 1380 not found in process
+[0315/155032.933:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0315/155033.141:ERROR:process_reader_win.cc(114)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0315/155033.142:ERROR:exception_snapshot_win.cc(87)] thread ID 15448 not found in process
+[0315/155033.142:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0315/155033.286:ERROR:process_reader_win.cc(114)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0315/155033.286:ERROR:exception_snapshot_win.cc(87)] thread ID 14296 not found in process
+[0315/155033.286:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0315/173540.338:ERROR:process_reader_win.cc(114)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0315/173540.340:ERROR:exception_snapshot_win.cc(87)] thread ID 19496 not found in process
+[0315/173540.340:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0315/173540.753:ERROR:process_reader_win.cc(114)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0315/173540.755:ERROR:exception_snapshot_win.cc(87)] thread ID 15600 not found in process
+[0315/173540.755:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0315/173541.004:ERROR:process_reader_win.cc(114)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0315/173541.004:ERROR:exception_snapshot_win.cc(87)] thread ID 916 not found in process
+[0315/173541.004:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0315/173541.249:ERROR:process_reader_win.cc(114)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0315/173541.250:ERROR:exception_snapshot_win.cc(87)] thread ID 8704 not found in process
+[0315/173541.250:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0315/182159.878:ERROR:process_info.cc(608)] range at 0xc5202aa000000000, size 0x1d9 fully unreadable
+[0315/182159.880:ERROR:process_info.cc(608)] range at 0xc5202ac000000000, size 0x1d9 fully unreadable
+[0315/182159.880:ERROR:process_info.cc(608)] range at 0x0, size 0x1d9 fully unreadable
+[0315/182159.893:WARNING:in_range_cast.h(38)] value 2034826746050 out of range
+[0315/182159.893:WARNING:in_range_cast.h(38)] value 2034826743118 out of range
+[0315/182159.893:WARNING:in_range_cast.h(38)] value 2034826746090 out of range
+[0315/182159.893:WARNING:in_range_cast.h(38)] value 2034826745486 out of range
+[0315/182159.893:WARNING:in_range_cast.h(38)] value 2034826746774 out of range
+[0315/182159.893:WARNING:in_range_cast.h(38)] value 2034827619712 out of range
+[0315/182159.893:WARNING:in_range_cast.h(38)] value 2034871176352 out of range
+[0315/182200.732:ERROR:process_info.cc(608)] range at 0xcd942aa000000000, size 0x242 fully unreadable
+[0315/182200.733:ERROR:process_info.cc(608)] range at 0xcd942ac000000000, size 0x242 fully unreadable
+[0315/182200.733:ERROR:process_info.cc(608)] range at 0x0, size 0x242 fully unreadable
+[0315/182200.740:WARNING:in_range_cast.h(38)] value 2485940132032 out of range
+[0315/182200.740:WARNING:in_range_cast.h(38)] value 2485940129100 out of range
+[0315/182200.740:WARNING:in_range_cast.h(38)] value 2485940132072 out of range
+[0315/182200.740:WARNING:in_range_cast.h(38)] value 2485940131468 out of range
+[0315/182200.740:WARNING:in_range_cast.h(38)] value 2485940132756 out of range
+[0315/182200.740:WARNING:in_range_cast.h(38)] value 2485941011952 out of range
+[0315/182200.740:WARNING:in_range_cast.h(38)] value 2485984339264 out of range
+[0315/182203.811:ERROR:process_info.cc(608)] range at 0x6cc2a9800000000, size 0x27b fully unreadable
+[0315/182203.811:ERROR:process_info.cc(608)] range at 0x6cc2ab800000000, size 0x27b fully unreadable
+[0315/182203.811:ERROR:process_info.cc(608)] range at 0x0, size 0x27b fully unreadable
+[0315/182203.821:WARNING:in_range_cast.h(38)] value 2727418271938 out of range
+[0315/182203.821:WARNING:in_range_cast.h(38)] value 2727418269006 out of range
+[0315/182203.821:WARNING:in_range_cast.h(38)] value 2727418271978 out of range
+[0315/182203.821:WARNING:in_range_cast.h(38)] value 2727418271374 out of range
+[0315/182203.821:WARNING:in_range_cast.h(38)] value 2727418272662 out of range
+[0315/182203.821:WARNING:in_range_cast.h(38)] value 2727419145440 out of range
+[0315/182203.821:WARNING:in_range_cast.h(38)] value 2727461470528 out of range
+[0315/182203.891:ERROR:process_info.cc(608)] range at 0x76f2a9800000000, size 0x15c fully unreadable
+[0315/182203.892:ERROR:process_info.cc(608)] range at 0x76f2ab800000000, size 0x15c fully unreadable
+[0315/182203.892:ERROR:process_info.cc(608)] range at 0x0, size 0x15c fully unreadable
+[0315/182203.902:WARNING:in_range_cast.h(38)] value 1494773340352 out of range
+[0315/182203.902:WARNING:in_range_cast.h(38)] value 1494773337420 out of range
+[0315/182203.902:WARNING:in_range_cast.h(38)] value 1494773340392 out of range
+[0315/182203.902:WARNING:in_range_cast.h(38)] value 1494773339788 out of range
+[0315/182203.902:WARNING:in_range_cast.h(38)] value 1494773341076 out of range
+[0315/182203.902:WARNING:in_range_cast.h(38)] value 1494774216784 out of range
+[0315/182203.902:WARNING:in_range_cast.h(38)] value 1494816021680 out of range
+[0315/182204.604:ERROR:process_info.cc(608)] range at 0xd02c2aa000000000, size 0x20e fully unreadable
+[0315/182204.605:ERROR:process_info.cc(608)] range at 0xd02c2ac000000000, size 0x20e fully unreadable
+[0315/182204.605:ERROR:process_info.cc(608)] range at 0x0, size 0x20e fully unreadable
+[0315/182204.615:WARNING:in_range_cast.h(38)] value 2262645348546 out of range
+[0315/182204.615:WARNING:in_range_cast.h(38)] value 2262645345614 out of range
+[0315/182204.615:WARNING:in_range_cast.h(38)] value 2262645348586 out of range
+[0315/182204.615:WARNING:in_range_cast.h(38)] value 2262645347982 out of range
+[0315/182204.615:WARNING:in_range_cast.h(38)] value 2262645349270 out of range
+[0315/182204.615:WARNING:in_range_cast.h(38)] value 2262646227664 out of range
+[0315/182204.615:WARNING:in_range_cast.h(38)] value 2262687720624 out of range
+[0315/182207.592:ERROR:process_info.cc(608)] range at 0x36422a9c00000000, size 0x265 fully unreadable
+[0315/182207.592:ERROR:process_info.cc(608)] range at 0x36422abc00000000, size 0x265 fully unreadable
+[0315/182207.593:ERROR:process_info.cc(608)] range at 0x0, size 0x265 fully unreadable
+[0315/182207.600:WARNING:in_range_cast.h(38)] value 2633725253826 out of range
+[0315/182207.600:WARNING:in_range_cast.h(38)] value 2633725250894 out of range
+[0315/182207.600:WARNING:in_range_cast.h(38)] value 2633725253866 out of range
+[0315/182207.600:WARNING:in_range_cast.h(38)] value 2633725253262 out of range
+[0315/182207.600:WARNING:in_range_cast.h(38)] value 2633725254550 out of range
+[0315/182207.600:WARNING:in_range_cast.h(38)] value 2633726128112 out of range
+[0315/182207.600:WARNING:in_range_cast.h(38)] value 2633768243344 out of range
+[0315/182208.105:ERROR:process_info.cc(608)] range at 0xf37d2aa000000000, size 0x184 fully unreadable
+[0315/182208.105:ERROR:process_info.cc(608)] range at 0xf37d2ac000000000, size 0x184 fully unreadable
+[0315/182208.105:ERROR:process_info.cc(608)] range at 0x0, size 0x184 fully unreadable
+[0315/182208.113:WARNING:in_range_cast.h(38)] value 1670532372674 out of range
+[0315/182208.113:WARNING:in_range_cast.h(38)] value 1670532369742 out of range
+[0315/182208.113:WARNING:in_range_cast.h(38)] value 1670532372714 out of range
+[0315/182208.113:WARNING:in_range_cast.h(38)] value 1670532372110 out of range
+[0315/182208.113:WARNING:in_range_cast.h(38)] value 1670532373398 out of range
+[0315/182208.113:WARNING:in_range_cast.h(38)] value 1670533242400 out of range
+[0315/182208.113:WARNING:in_range_cast.h(38)] value 1670575448672 out of range
+[0315/182208.926:ERROR:process_info.cc(608)] range at 0xc78a2a9c00000000, size 0x24a fully unreadable
+[0315/182208.928:ERROR:process_info.cc(608)] range at 0xc78a2abc00000000, size 0x24a fully unreadable
+[0315/182208.928:ERROR:process_info.cc(608)] range at 0x0, size 0x24a fully unreadable
+[0315/182208.936:WARNING:in_range_cast.h(38)] value 2520198551746 out of range
+[0315/182208.936:WARNING:in_range_cast.h(38)] value 2520198548814 out of range
+[0315/182208.936:WARNING:in_range_cast.h(38)] value 2520198551786 out of range
+[0315/182208.936:WARNING:in_range_cast.h(38)] value 2520198551182 out of range
+[0315/182208.936:WARNING:in_range_cast.h(38)] value 2520198552470 out of range
+[0315/182208.936:WARNING:in_range_cast.h(38)] value 2520199421520 out of range
+[0315/182208.936:WARNING:in_range_cast.h(38)] value 2520241808064 out of range
+[0315/182210.797:ERROR:process_reader_win.cc(233)] ReadMemory at 0x20ed45b4f80 of 512 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0315/182210.798:ERROR:crash_report_exception_handler.cc(111)] WriteEverything failed
+[0315/182228.209:ERROR:process_info.cc(608)] range at 0xbc342a9c00000000, size 0x25a fully unreadable
+[0315/182228.209:ERROR:process_info.cc(608)] range at 0xbc342abc00000000, size 0x25a fully unreadable
+[0315/182228.209:ERROR:process_info.cc(608)] range at 0x0, size 0x25a fully unreadable
+[0315/182231.943:WARNING:in_range_cast.h(38)] value 2588727843008 out of range
+[0315/182231.943:WARNING:in_range_cast.h(38)] value 2588727840076 out of range
+[0315/182231.943:WARNING:in_range_cast.h(38)] value 2588727843048 out of range
+[0315/182231.943:WARNING:in_range_cast.h(38)] value 2588727842444 out of range
+[0315/182231.943:WARNING:in_range_cast.h(38)] value 2588727843732 out of range
+[0315/182231.943:WARNING:in_range_cast.h(38)] value 2588728719120 out of range
+[0315/182231.943:WARNING:in_range_cast.h(38)] value 2588771965680 out of range
+[0315/183700.910:ERROR:settings.cc(261)] Settings magic is not 1129342067
+[0315/215640.943:ERROR:process_reader_win.cc(114)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0315/215640.953:ERROR:exception_snapshot_win.cc(87)] thread ID 10792 not found in process
+[0315/215640.953:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0315/215641.456:ERROR:process_reader_win.cc(114)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0315/215641.458:ERROR:exception_snapshot_win.cc(87)] thread ID 8968 not found in process
+[0315/215641.458:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0315/215641.909:ERROR:process_reader_win.cc(114)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0315/215641.912:ERROR:exception_snapshot_win.cc(87)] thread ID 12836 not found in process
+[0315/215641.912:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0315/215642.413:ERROR:process_reader_win.cc(114)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0315/215642.416:ERROR:exception_snapshot_win.cc(87)] thread ID 9688 not found in process
+[0315/215642.416:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0315/215642.900:ERROR:process_reader_win.cc(114)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0315/215642.904:ERROR:exception_snapshot_win.cc(87)] thread ID 10328 not found in process
+[0315/215642.904:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0315/215643.326:ERROR:process_reader_win.cc(114)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0315/215643.328:ERROR:exception_snapshot_win.cc(87)] thread ID 12724 not found in process
+[0315/215643.328:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0315/215643.792:ERROR:process_reader_win.cc(114)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0315/215643.795:ERROR:exception_snapshot_win.cc(87)] thread ID 8640 not found in process
+[0315/215643.795:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0315/223510.907:ERROR:process_info.cc(608)] range at 0x9232a9400000000, size 0x23e fully unreadable
+[0315/223510.910:ERROR:process_info.cc(608)] range at 0x9232ab400000000, size 0x23e fully unreadable
+[0315/223510.910:ERROR:process_info.cc(608)] range at 0x0, size 0x23e fully unreadable
+[0315/223510.927:WARNING:in_range_cast.h(38)] value 2465464522944 out of range
+[0315/223510.927:WARNING:in_range_cast.h(38)] value 2465464520012 out of range
+[0315/223510.927:WARNING:in_range_cast.h(38)] value 2465464522984 out of range
+[0315/223510.927:WARNING:in_range_cast.h(38)] value 2465464522380 out of range
+[0315/223510.927:WARNING:in_range_cast.h(38)] value 2465464523668 out of range
+[0315/223510.927:WARNING:in_range_cast.h(38)] value 2465465399488 out of range
+[0315/223510.927:WARNING:in_range_cast.h(38)] value 2465357209600 out of range
+[0315/223511.799:ERROR:process_info.cc(608)] range at 0xb6792a9c00000000, size 0x1f7 fully unreadable
+[0315/223511.799:ERROR:process_info.cc(608)] range at 0xb6792abc00000000, size 0x1f7 fully unreadable
+[0315/223511.799:ERROR:process_info.cc(608)] range at 0x0, size 0x1f7 fully unreadable
+[0315/223512.163:WARNING:in_range_cast.h(38)] value 2163429939394 out of range
+[0315/223512.163:WARNING:in_range_cast.h(38)] value 2163429936462 out of range
+[0315/223512.163:WARNING:in_range_cast.h(38)] value 2163429939434 out of range
+[0315/223512.163:WARNING:in_range_cast.h(38)] value 2163429938830 out of range
+[0315/223512.163:WARNING:in_range_cast.h(38)] value 2163429940118 out of range
+[0315/223512.163:WARNING:in_range_cast.h(38)] value 2163430793712 out of range
+[0315/223512.163:WARNING:in_range_cast.h(38)] value 2163475508528 out of range
+[0315/223537.646:ERROR:process_info.cc(608)] range at 0x1b262aa000000000, size 0x22b fully unreadable
+[0315/223537.647:ERROR:process_info.cc(608)] range at 0x1b262ac000000000, size 0x22b fully unreadable
+[0315/223537.647:ERROR:process_info.cc(608)] range at 0x0, size 0x22b fully unreadable
+[0315/223537.655:WARNING:in_range_cast.h(38)] value 2384162330816 out of range
+[0315/223537.655:WARNING:in_range_cast.h(38)] value 2384162327884 out of range
+[0315/223537.655:WARNING:in_range_cast.h(38)] value 2384162330856 out of range
+[0315/223537.655:WARNING:in_range_cast.h(38)] value 2384162330252 out of range
+[0315/223537.655:WARNING:in_range_cast.h(38)] value 2384162331540 out of range
+[0315/223537.655:WARNING:in_range_cast.h(38)] value 2384163206384 out of range
+[0315/223537.655:WARNING:in_range_cast.h(38)] value 2384208907952 out of range
+[0315/223723.294:ERROR:process_info.cc(608)] range at 0x14332a9c00000000, size 0x220 fully unreadable
+[0315/223723.294:ERROR:process_info.cc(608)] range at 0x14332abc00000000, size 0x220 fully unreadable
+[0315/223723.294:ERROR:process_info.cc(608)] range at 0x0, size 0x220 fully unreadable
+[0315/223723.308:WARNING:in_range_cast.h(38)] value 2336801102016 out of range
+[0315/223723.308:WARNING:in_range_cast.h(38)] value 2336801099084 out of range
+[0315/223723.308:WARNING:in_range_cast.h(38)] value 2336801102056 out of range
+[0315/223723.308:WARNING:in_range_cast.h(38)] value 2336801101452 out of range
+[0315/223723.308:WARNING:in_range_cast.h(38)] value 2336801102740 out of range
+[0315/223723.308:WARNING:in_range_cast.h(38)] value 2336801994144 out of range
+[0315/223723.308:WARNING:in_range_cast.h(38)] value 2336508245552 out of range
+[0315/223806.982:ERROR:process_info.cc(608)] range at 0xbda52aa000000000, size 0x273 fully unreadable
+[0315/223806.983:ERROR:process_info.cc(608)] range at 0xbda52ac000000000, size 0x273 fully unreadable
+[0315/223806.983:ERROR:process_info.cc(608)] range at 0x0, size 0x273 fully unreadable
+[0315/223806.997:WARNING:in_range_cast.h(38)] value 2696126208194 out of range
+[0315/223806.997:WARNING:in_range_cast.h(38)] value 2696126205262 out of range
+[0315/223806.997:WARNING:in_range_cast.h(38)] value 2696126208234 out of range
+[0315/223806.997:WARNING:in_range_cast.h(38)] value 2696126207630 out of range
+[0315/223806.997:WARNING:in_range_cast.h(38)] value 2696126208918 out of range
+[0315/223806.997:WARNING:in_range_cast.h(38)] value 2696127081808 out of range
+[0315/223806.997:WARNING:in_range_cast.h(38)] value 2696171840320 out of range
+[0315/223814.034:ERROR:process_info.cc(608)] range at 0x75512a9c00000000, size 0x184 fully unreadable
+[0315/223814.035:ERROR:process_info.cc(608)] range at 0x75512abc00000000, size 0x184 fully unreadable
+[0315/223814.035:ERROR:process_info.cc(608)] range at 0x0, size 0x184 fully unreadable
+[0315/223814.066:WARNING:in_range_cast.h(38)] value 1668415559874 out of range
+[0315/223814.066:WARNING:in_range_cast.h(38)] value 1668415556942 out of range
+[0315/223814.066:WARNING:in_range_cast.h(38)] value 1668415559914 out of range
+[0315/223814.066:WARNING:in_range_cast.h(38)] value 1668415559310 out of range
+[0315/223814.066:WARNING:in_range_cast.h(38)] value 1668415560598 out of range
+[0315/223814.067:WARNING:in_range_cast.h(38)] value 1668416444368 out of range
+[0315/223814.067:WARNING:in_range_cast.h(38)] value 1668461658976 out of range
+[0315/223847.288:ERROR:process_info.cc(608)] range at 0x64542a9c00000000, size 0x265 fully unreadable
+[0315/223847.288:ERROR:process_info.cc(608)] range at 0x64542abc00000000, size 0x265 fully unreadable
+[0315/223847.288:ERROR:process_info.cc(608)] range at 0x0, size 0x265 fully unreadable
+[0315/223847.295:WARNING:in_range_cast.h(38)] value 2634498185408 out of range
+[0315/223847.295:WARNING:in_range_cast.h(38)] value 2634498182476 out of range
+[0315/223847.295:WARNING:in_range_cast.h(38)] value 2634498185448 out of range
+[0315/223847.295:WARNING:in_range_cast.h(38)] value 2634498184844 out of range
+[0315/223847.295:WARNING:in_range_cast.h(38)] value 2634498186132 out of range
+[0315/223847.295:WARNING:in_range_cast.h(38)] value 2634499069184 out of range
+[0315/223847.295:WARNING:in_range_cast.h(38)] value 2634545189792 out of range
+[0315/223850.916:ERROR:process_info.cc(608)] range at 0x73982a9800000000, size 0x237 fully unreadable
+[0315/223850.916:ERROR:process_info.cc(608)] range at 0x73982ab800000000, size 0x237 fully unreadable
+[0315/223850.916:ERROR:process_info.cc(608)] range at 0x0, size 0x237 fully unreadable
+[0315/223850.931:WARNING:in_range_cast.h(38)] value 2437185804482 out of range
+[0315/223850.931:WARNING:in_range_cast.h(38)] value 2437185801550 out of range
+[0315/223850.931:WARNING:in_range_cast.h(38)] value 2437185804522 out of range
+[0315/223850.931:WARNING:in_range_cast.h(38)] value 2437185803918 out of range
+[0315/223850.931:WARNING:in_range_cast.h(38)] value 2437185805206 out of range
+[0315/223850.931:WARNING:in_range_cast.h(38)] value 2437186678080 out of range
+[0315/223850.931:WARNING:in_range_cast.h(38)] value 2437231497456 out of range
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     [0315/224853.985:ERROR:settings.cc(261)] Settings magic is not 1129342067
+[0316/073917.015:ERROR:process_reader_win.cc(114)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0316/073917.017:ERROR:exception_snapshot_win.cc(87)] thread ID 21708 not found in process
+[0316/073917.017:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0316/073917.229:ERROR:process_reader_win.cc(114)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0316/073917.230:ERROR:exception_snapshot_win.cc(87)] thread ID 8544 not found in process
+[0316/073917.230:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0316/073917.420:ERROR:process_reader_win.cc(114)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0316/073917.421:ERROR:exception_snapshot_win.cc(87)] thread ID 17156 not found in process
+[0316/073917.421:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0316/073917.610:ERROR:process_reader_win.cc(114)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0316/073917.611:ERROR:exception_snapshot_win.cc(87)] thread ID 12848 not found in process
+[0316/073917.611:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0316/073917.883:ERROR:process_reader_win.cc(114)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0316/073917.884:ERROR:exception_snapshot_win.cc(87)] thread ID 16792 not found in process
+[0316/073917.884:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0316/073918.058:ERROR:process_reader_win.cc(114)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0316/073918.059:ERROR:exception_snapshot_win.cc(87)] thread ID 8760 not found in process
+[0316/073918.059:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0316/073918.207:ERROR:process_reader_win.cc(114)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены.  (0xc0000022)
+[0316/073918.207:ERROR:exception_snapshot_win.cc(87)] thread ID 19764 not found in process
+[0316/073918.207:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed

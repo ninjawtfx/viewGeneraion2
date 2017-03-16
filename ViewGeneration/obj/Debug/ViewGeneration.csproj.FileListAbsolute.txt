@@ -8,3 +8,13 @@ c:\users\lex\documents\visual studio 2015\Projects\ViewGeneration\ViewGeneration
 c:\users\lex\documents\visual studio 2015\Projects\ViewGeneration\ViewGeneration\obj\Debug\ViewGeneration.pdb
 c:\users\lex\documents\visual studio 2015\Projects\ViewGeneration\ViewGeneration\bin\Debug\WebDriver.dll
 c:\users\lex\documents\visual studio 2015\Projects\ViewGeneration\ViewGeneration\bin\Debug\WebDriver.xml
+C:\viewGeneraion2\ViewGeneration\bin\Debug\ViewGeneration.exe.config
+C:\viewGeneraion2\ViewGeneration\obj\Debug\ViewGeneration.exe
+C:\viewGeneraion2\ViewGeneration\obj\Debug\ViewGeneration.pdb
+C:\viewGeneraion2\ViewGeneration\bin\Debug\ViewGeneration.exe
+C:\viewGeneraion2\ViewGeneration\bin\Debug\ViewGeneration.pdb
+C:\viewGeneraion2\ViewGeneration\bin\Debug\Extreme.Net.dll
+C:\viewGeneraion2\ViewGeneration\bin\Debug\WebDriver.dll
+C:\viewGeneraion2\ViewGeneration\bin\Debug\Extreme.Net.xml
+C:\viewGeneraion2\ViewGeneration\bin\Debug\WebDriver.xml
+C:\viewGeneraion2\ViewGeneration\obj\Debug\ViewGeneration.csprojResolveAssemblyReference.cache

@@ -59,17 +59,17 @@ namespace ViewGeneration
 					//	ElementToClick = "//a[text()='Writetravel | Блог о ']"
 					//},
 
-				//new Searcher()
-				//	{
-				//		YandexUrl = "https://vk.com/away.php?to=http%3A%2F%2Fbrutaleveryday.ru%2Fkak-poxudet-pravilnoe-pitanie%2F&post=401123499_8&el=snippet",
-				//		ElementToClick = "//a[@href='http://brutaleveryday.ru/kak-poxudet/']"
-				//	},
+				new Searcher()
+					{
+						YandexUrl = "https://vk.com/away.php?to=http%3A%2F%2Fbrutaleveryday.ru%2Fkak-poxudet-pravilnoe-pitanie%2F&post=401123499_8&el=snippet",
+						ElementToClick = "//a[@href='http://brutaleveryday.ru/kak-poxudet/']"
+					},
 
-				//new Searcher()
-				//{
-				//	YandexUrl = "https://vk.com/away.php?to=http%3A%2F%2Fbrutaleveryday.ru%2Fkak-poxudet%2F&post=401123499_10&el=snippet",
-				//	ElementToClick = "//a[@href='http://brutaleveryday.ru/kak-poxudet-pravilnoe-pitanie/']"
-				//}
+				new Searcher()
+				{
+					YandexUrl = "https://vk.com/away.php?to=http%3A%2F%2Fbrutaleveryday.ru%2Fkak-poxudet%2F&post=401123499_10&el=snippet",
+					ElementToClick = "//a[@href='http://brutaleveryday.ru/kak-poxudet-pravilnoe-pitanie/']"
+				}
 				});
 
 
@@ -77,7 +77,7 @@ namespace ViewGeneration
 			sw.Start();
 
 			ParallelOptions opt = new ParallelOptions();
-			ThreadPool.SetMaxThreads(50, 50);
+			ThreadPool.SetMaxThreads(25, 25);
 
 			bool isRunning = false;
 
@@ -99,7 +99,7 @@ namespace ViewGeneration
 							return;
 						}
 
-						if (sw.Elapsed.Minutes > 100)
+						if (sw.Elapsed.Minutes > 30)
 						{
 							isRunning = false;
 							closeAllChromeInstances();
